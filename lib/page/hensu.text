@@ -1,0 +1,6 @@
+Events・・・リスト[Eventクラス]
+selectedDays・・・選択した日付がリスト化されたもの[Datetime型]
+eventMap
+1→イベント設定画面に返す値を「Eventのリスト」、「選ばれた日付」、「イベントと日付のMap」にする
+4/3・・・PlanShowのchangevar関数から
+    選択した日付のイベントをEventMapから取り出し、LIstViewで表示するs
